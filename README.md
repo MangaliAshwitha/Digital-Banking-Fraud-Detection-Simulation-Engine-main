@@ -527,6 +527,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Mourya Sagar**
+**Mangali Ashwitha**
 
 * GitHub: [https://github.com/MangaliAshwitha](https://github.com/MangaliAshwitha)
