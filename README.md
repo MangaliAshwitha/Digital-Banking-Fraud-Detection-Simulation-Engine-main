@@ -529,4 +529,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mourya Sagar**
 
-* GitHub: [https://github.com/MouryaSagar17](https://github.com/MouryaSagar17)
+* GitHub: [https://github.com/MangaliAshwitha](https://github.com/MangaliAshwitha)
